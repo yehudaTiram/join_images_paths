@@ -1,7 +1,11 @@
 # join_images_paths
 Join images paths for a product import (for WC import)
 
-This Python script is for combining paths of product images files that will be imported into Woocommerce
+This Python script is for combining paths of product images files that will be imported into Woocommerce.
+
+See original list of paths in images-paths.txt
+
+Results file is images-paths-joined.txt
 
 Exapmle file of images paths:
 
